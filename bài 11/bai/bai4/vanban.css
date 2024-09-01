@@ -1,0 +1,12 @@
+body a {
+  text-align: center;
+  color: red;
+  text-decoration: none;
+}
+body h1 {
+  text-align: center;
+}
+body h2 {
+  font-size: large;
+  font-weight: normal;
+}

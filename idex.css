@@ -1,0 +1,15 @@
+body table thead tr th {
+  font-size: 50px;
+  font-weight: bolder;
+  word-spacing: 20px;
+}
+body table tbody td {
+  font-size: 50px;
+  font-weight: 100;
+  text-align: end;
+}
+body table tfoot td {
+  text-align: center;
+  font-size: 50px;
+  font-size: larger;
+}
